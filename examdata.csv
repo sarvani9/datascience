@@ -1,0 +1,109 @@
+Student,Exam Mode,Exam Selection,Course Name,Event,Time
+Alex,Online Proctored,Regular,Big Data Analytics,Login,5
+Alex,Online Proctored,Regular,Big Data Analytics,Chat,10
+Alex,Online Proctored,Regular,Big Data Analytics,Window change,25
+Alex,Online Proctored,Regular,Big Data Analytics,System,30
+Alex,Online Proctored,Regular,Big Data Analytics,Authentication,12
+Alex,Online Proctored,Makeup,Predictive Analytics,Login,26.6
+Alex,Online Proctored,Regular,Supply Chain Management,Chat,30
+Alex,Online Proctored,Regular,a,Window change,33.4
+Brad,Online Proctored,Regular,Big Data Analytics,System,36.8
+Brad,Online Proctored,Makeup,Predictive Analytics,Authentication,40.2
+Brad,Online Proctored,Regular,Supply Chain Management,Login,43.6
+Brad,Online Proctored,Regular,Optimization Research,Chat,47
+Chris,Online Proctored,Regular,Big Data Analytics,Window change,50.4
+Chris,Online Proctored,Makeup,Predictive Analytics,System,53.8
+Chris,Online Proctored,Regular,Supply Chain Management,Authentication,57.2
+Chris,Online Proctored,Regular,Optimization Research,Login,60.6
+Don,Online Proctored,Regular,Big Data Analytics,Chat,64
+Don,Online Proctored,Makeup,Predictive Analytics,Window change,67.4
+Don,Online Proctored,Regular,Supply Chain Management,System,70.8
+Don,Online Proctored,Regular,Optimization Research,Authentication,74.2
+Ellie,Online Proctored,Regular,Big Data Analytics,Login,77.6
+Ellie,Online Proctored,Makeup,Predictive Analytics,Chat,81
+Ellie,Online Proctored,Regular,Supply Chain Management,Window change,84.4
+Ellie,Online Proctored,Regular,Optimization Research,System,87.8
+Frank,Online Proctored,Regular,Big Data Analytics,Authentication,91.2
+Frank,Online Proctored,Makeup,Predictive Analytics,Login,94.6
+Frank,Online Proctored,Regular,Supply Chain Management,Chat,98
+Frank,Online Proctored,Regular,Optimization Research,Window change,101.4
+Georgia,Online Proctored,Regular,Big Data Analytics,System,104.8
+Georgia,Online Proctored,Makeup,Predictive Analytics,Authentication,108.2
+Georgia,Online Proctored,Regular,Supply Chain Management,Login,111.6
+Georgia,Online Proctored,Regular,Optimization Research,Chat,115
+Harry,Online Proctored,Regular,Big Data Analytics,Window change,118.4
+Harry,Online Proctored,Makeup,Predictive Analytics,System,121.8
+Harry,Online Proctored,Regular,Supply Chain Management,Authentication,125.2
+Harry,Online Proctored,Regular,Optimization Research,Login,128.6
+Ivy,Online Proctored,Regular,Big Data Analytics,Chat,132
+Ivy,Online Proctored,Makeup,Predictive Analytics,Window change,135.4
+Ivy,Online Proctored,Regular,Supply Chain Management,System,138.8
+Ivy,Online Proctored,Regular,Optimization Research,Authentication,142.2
+Jack,Online Proctored,Regular,Big Data Analytics,Login,145.6
+Jack,Online Proctored,Makeup,Predictive Analytics,Chat,149
+Jack,Online Proctored,Regular,Supply Chain Management,Window change,152.4
+Jack,Online Proctored,Regular,Optimization Research,System,155.8
+Kelly,Online Proctored,Regular,Big Data Analytics,Authentication,159.2
+Kelly,Online Proctored,Makeup,Predictive Analytics,Login,162.6
+Kelly,Online Proctored,Regular,Supply Chain Management,Chat,166
+Kelly,Online Proctored,Regular,Optimization Research,Window change,169.4
+Lilly,Online Proctored,Regular,Big Data Analytics,System,172.8
+Lilly,Online Proctored,Makeup,Predictive Analytics,Authentication,176.2
+Lilly,Online Proctored,Regular,Supply Chain Management,Login,179.6
+Lilly,Online Proctored,Regular,Optimization Research,Chat,183
+Monty,Online Proctored,Regular,Big Data Analytics,Window change,186.4
+Monty,Online Proctored,Makeup,Predictive Analytics,System,189.8
+Monty,Online Proctored,Regular,Supply Chain Management,Authentication,193.2
+Monty,Online Proctored,Regular,Optimization Research,Login,196.6
+Nick,Online Proctored,Regular,Big Data Analytics,Chat,200
+Nick,Online Proctored,Makeup,Predictive Analytics,Window change,203.4
+Nick,Online Proctored,Regular,Supply Chain Management,System,206.8
+Nick,Online Proctored,Regular,Optimization Research,Authentication,210.2
+Orry,Online Proctored,Regular,Big Data Analytics,Login,213.6
+Orry,Online Proctored,Makeup,Predictive Analytics,Chat,217
+Orry,Online Proctored,Regular,Supply Chain Management,Window change,220.4
+Orry,Online Proctored,Regular,Optimization Research,System,223.8
+Peter,Online Proctored,Regular,Big Data Analytics,Authentication,227.2
+Peter,Online Proctored,Makeup,Predictive Analytics,Login,230.6
+Peter,Online Proctored,Regular,Supply Chain Management,Chat,234
+Peter,Online Proctored,Regular,Optimization Research,Window change,237.4
+Quinn,Online Proctored,Regular,Big Data Analytics,System,240.8
+Quinn,Online Proctored,Makeup,Predictive Analytics,Authentication,244.2
+Quinn,Online Proctored,Regular,Supply Chain Management,Login,247.6
+Quinn,Online Proctored,Regular,Optimization Research,Chat,251
+Rob,Online Proctored,Regular,Big Data Analytics,Window change,254.4
+Rob,Online Proctored,Makeup,Predictive Analytics,System,257.8
+Rob,Online Proctored,Regular,Supply Chain Management,Authentication,261.2
+Rob,Online Proctored,Regular,Optimization Research,Login,264.6
+Stella,Online Proctored,Regular,Big Data Analytics,Chat,268
+Stella,Online Proctored,Makeup,Predictive Analytics,Window change,271.4
+Stella,Online Proctored,Regular,Supply Chain Management,System,274.8
+Stella,Online Proctored,Regular,Optimization Research,Authentication,278.2
+Tom,Online Proctored,Regular,Big Data Analytics,Login,281.6
+Tom,Online Proctored,Makeup,Predictive Analytics,Chat,285
+Tom,Online Proctored,Regular,Supply Chain Management,Window change,288.4
+Tom,Online Proctored,Regular,Optimization Research,System,291.8
+Ursela,Online Proctored,Regular,Big Data Analytics,Authentication,295.2
+Ursela,Online Proctored,Makeup,Predictive Analytics,Login,298.6
+Ursela,Online Proctored,Regular,Supply Chain Management,Chat,302
+Ursela,Online Proctored,Regular,Optimization Research,Window change,305.4
+Vikram,Online Proctored,Regular,Big Data Analytics,System,308.8
+Vikram,Online Proctored,Makeup,Predictive Analytics,Authentication,312.2
+Vikram,Online Proctored,Regular,Supply Chain Management,Login,315.6
+Vikram,Online Proctored,Makeup,Optimization Research,Chat,319
+Will,Online Proctored,Regular,Big Data Analytics,Window change,322.4
+Will,Online Proctored,Makeup,Predictive Analytics,System,325.8
+Will,Online Proctored,Regular,Supply Chain Management,Authentication,329.2
+Will,Online Proctored,Makeup,Optimization Research,Login,332.6
+Xavier,Online Proctored,Regular,Big Data Analytics,Chat,336
+Xavier,Online Proctored,Makeup,Predictive Analytics,Window change,339.4
+Xavier,Online Proctored,Regular,Supply Chain Management,System,342.8
+Xavier,Online Proctored,Regular,Optimization Research,Authentication,346.2
+Yoda,Online Proctored,Regular,Big Data Analytics,Login,349.6
+Yoda,Online Proctored,Makeup,Predictive Analytics,Chat,353
+Yoda,Online Proctored,Regular,Supply Chain Management,Window change,356.4
+Yoda,Online Proctored,Regular,Optimization Research,System,359.8
+Zen,Online Proctored,Regular,Big Data Analytics,Authentication,363.2
+Zen,Online Proctored,Makeup,Predictive Analytics,Login,366.6
+Zen,Online Proctored,Makeup,Supply Chain Management,Chat,370
+Zen,Online Proctored,Regular,Optimization Research,Window change,373.4

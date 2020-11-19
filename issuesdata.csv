@@ -1,0 +1,65 @@
+Student,Course Name,Issue,Location
+Alex,Big Data Anaytics,Website Loading,Los Angeles
+Zen,Supply Chain management,Website Performance,Mumbai
+Orry,Predictive Analytics,Website Performance,New York
+Kelly,Big Data Anaytics,Website Performance,Tulsa
+Lilly,Supply Chain management,Website Performance,Barcelona
+Rufus,Predictive Analytics,Website Performance,Paris
+Jack,Big Data Anaytics,Website Performance,Hyderabad
+Harry,Supply Chain management,Website Performance,Bangalore
+Alex,Predictive Analytics,Images not Loading,Delhi
+Kelly,Big Data Anaytics,Images not Loading,London
+Lilly,Supply Chain management,Images not Loading,Dubai
+Kelly,Predictive Analytics,Images not Loading,Madrid
+Lilly,Big Data Anaytics,Images not Loading,Los Angeles
+Rufus,Supply Chain management,Issues with Exam Submission,Mumbai
+Jack,Predictive Analytics,Issues with Exam Submission,New York
+Harry,Big Data Anaytics,General Query,Tulsa
+Alex,Supply Chain management,General Query,Barcelona
+Kelly,Predictive Analytics,General Query,Paris
+Lilly,Big Data Anaytics,Login - Credentials - Authentication issues,Hyderabad
+Kelly,Supply Chain management,Login - Credentials - Authentication issues,Bangalore
+Lilly,Optimisation Research,Login - Credentials - Authentication issues,Delhi
+Rufus,Optimisation Research,Login - Credentials - Authentication issues,London
+Jack,Optimisation Research,BarCode Scan issues,Dubai
+Harry,Optimisation Research,BarCode Scan issues,Madrid
+Alex,Optimisation Research,BarCode Scan issues,Los Angeles
+Kelly,Optimisation Research,BarCode Scan issues,Mumbai
+Lilly,Optimisation Research,BarCode Scan issues,New York
+Kelly,Optimisation Research,BarCode Scan issues,Tulsa
+Lilly,Predictive Analytics,BarCode Scan issues,Barcelona
+Rob,Predictive Analytics,BarCode Scan issues,Paris
+Jack,Predictive Analytics,BarCode Scan issues,Hyderabad
+Harry,Predictive Analytics,BarCode Scan issues,Bangalore
+Alex,Predictive Analytics,BarCode Scan issues,Delhi
+Kelly,Predictive Analytics,BarCode Scan issues,London
+Brad,Predictive Analytics,BarCode Scan issues,Dubai
+Kelly,Predictive Analytics,BarCode Scan issues,Madrid
+Lilly,Predictive Analytics,BarCode Scan issues,Los Angeles
+Rufus,Predictive Analytics,Exam questions Load issues,Mumbai
+Chris,Predictive Analytics,Exam questions Load issues,New York
+Harry,Predictive Analytics,Exam questions Load issues,Tulsa
+Alex,Supply Chain management,Exam questions Load issues,Barcelona
+Kelly,Supply Chain management,Exam questions Load issues,Paris
+Zen,Supply Chain management,Exam questions Load issues,Hyderabad
+Kelly,Supply Chain management,Exam questions Load issues,Bangalore
+Lilly,Supply Chain management,Answersheet upload issue,Delhi
+Yoda,Supply Chain management,Answersheet upload issue,London
+Jack,Supply Chain management,Answersheet upload issue,Dubai
+Harry,Supply Chain management,Answersheet upload issue,Madrid
+Forty,Supply Chain management,Answersheet upload issue,Los Angeles
+Kelly,Supply Chain management,Answersheet upload issue,Mumbai
+Lilly,Supply Chain management,Internet issue,New York
+Kelly,Big Data Anaytics,Internet issue,Tulsa
+Vikram,Big Data Anaytics,Internet issue,Barcelona
+Ivy,Big Data Anaytics,Internet issue,Paris
+Jack,Big Data Anaytics,Internet issue,Hyderabad
+Harry,Big Data Anaytics,Internet issue,Bangalore
+Blair,Big Data Anaytics,Internet issue,Delhi
+Kelly,Big Data Anaytics,Internet issue,London
+Quinn,Big Data Anaytics,Internet issue,Dubai
+Kelly,Big Data Anaytics,Internet issue,Madrid
+Lilly,Big Data Anaytics,Internet issue,Los Angeles
+Will,Big Data Anaytics,Powercut issue,Mumbai
+Jack,Big Data Anaytics,Powercut issue,New York
+Harry,Big Data Anaytics,Powercut issue,Tulsa

@@ -1,0 +1,106 @@
+Proctor Name,Student Name,Event,Time Spent
+Sita,Alex,Login,1
+Sita,Alex,Chat,3
+Sita,Alex,Window change,5
+Sita,Alex,System,6
+Sita,Alex,Authentication,12
+Sita,Brad,System,12.9
+Sita,Brad,Authentication,15.4
+Sita,Brad,Login,17.9
+Sita,Brad,Chat,20.4
+Sita,Chris,Window change,22.9
+Sita,Chris,System,25.4
+Sita,Chris,Authentication,27.9
+Sita,Chris,Login,30.4
+Sita,Don,Chat,32.9
+Sita,Don,Window change,35.4
+Sita,Don,System,37.9
+Sita,Don,Authentication,40.4
+Sita,Ellie,Login,42.9
+Sita,Ellie,Chat,45.4
+Sita,Ellie,Window change,47.9
+Sita,Ellie,System,50.4
+Sita,Frank,Authentication,52.9
+Sita,Frank,Login,55.4
+Sita,Frank,Chat,57.9
+Sita,Frank,Window change,60.4
+Sita,Georgia,System,62.9
+Sita,Georgia,Authentication,65.4
+Sita,Georgia,Login,67.9
+Sita,Georgia,Chat,70.4
+Sita,Harry,Window change,72.9
+Sita,Harry,System,75.4
+Sita,Harry,Authentication,77.9
+Sita,Harry,Login,80.4
+Sita,Ivy,Chat,82.9
+Sita,Ivy,Window change,85.4
+Sita,Ivy,System,87.9
+Sita,Ivy,Authentication,90.4
+Sita,Jack,Login,92.9
+Sita,Jack,Chat,95.4
+Sita,Jack,Window change,97.9
+Sita,Jack,System,100.4
+Sita,Kelly,Authentication,102.9
+Sita,Kelly,Login,105.4
+Sita,Kelly,Chat,107.9
+Sita,Kelly,Window change,110.4
+Sita,Lilly,System,112.9
+Sita,Lilly,Authentication,115.4
+Sita,Lilly,Login,117.9
+Sita,Lilly,Chat,120.4
+Sita,Monty,Window change,122.9
+Sita,Monty,System,125.4
+Sita,Monty,Authentication,127.9
+Sita,Monty,Login,130.4
+Sita,Nick,Chat,132.9
+Sita,Nick,Window change,135.4
+Sita,Nick,System,137.9
+Sita,Nick,Authentication,140.4
+Sita,Orry,Login,142.9
+Sita,Orry,Chat,145.4
+Gita,Orry,Window change,147.9
+Gita,Orry,System,150.4
+Gita,Peter,Authentication,152.9
+Gita,Peter,Login,155.4
+Gita,Peter,Chat,157.9
+Gita,Peter,Window change,160.4
+Gita,Quinn,System,162.9
+Gita,Quinn,Authentication,165.4
+Gita,Quinn,Login,167.9
+Gita,Quinn,Chat,170.4
+Gita,Rob,Window change,172.9
+Gita,Rob,System,175.4
+Gita,Rob,Authentication,177.9
+Gita,Rob,Login,180.4
+Gita,Stella,Chat,182.9
+Gita,Stella,Window change,185.4
+Gita,Stella,System,187.9
+Gita,Stella,Authentication,190.4
+Gita,Tom,Login,192.9
+Gita,Tom,Chat,195.4
+Gita,Tom,Window change,197.9
+Gita,Tom,System,200.4
+Gita,Ursela,Authentication,202.9
+Gita,Ursela,Login,205.4
+Gita,Ursela,Chat,207.9
+Gita,Ursela,Window change,210.4
+Gita,Vikram,System,212.9
+Gita,Vikram,Authentication,215.4
+Gita,Vikram,Login,217.9
+Gita,Vikram,Chat,220.4
+Gita,Will,Window change,222.9
+Gita,Will,System,225.4
+Gita,Will,Authentication,227.9
+Gita,Will,Login,230.4
+Gita,Xavier,Chat,232.9
+Gita,Xavier,Window change,235.4
+Gita,Xavier,System,237.9
+Gita,Xavier,Authentication,240.4
+Gita,Yoda,Login,242.9
+Gita,Yoda,Chat,245.4
+Gita,Yoda,Window change,247.9
+Gita,Yoda,System,250.4
+Gita,Zen,Authentication,252.9
+Gita,Zen,Login,255.4
+Gita,Zen,Chat,257.9
+Gita,Zen,Window change,260.4
