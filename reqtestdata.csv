@@ -1,0 +1,105 @@
+Student Name,University,Program,Course Name,Exam Selection,Exam Mode,Location,Exam Duration,Event,Event Time,Issue,Issue Resolution Time
+Alex,Bits Pilani,MS Business Analytics,Big Data Analytics,Regular,Online Proctored,Los Angeles,120,Login,5,Website Loading,10
+Alex,Bits Pilani,MS Business Analytics,Predictive Analytics,Makeup,Online Proctored,Mumbai,130,Chat,10,Website Performance,5
+Alex,Bits Pilani,MS Business Analytics,Supply Chain Management,Regular,Online Proctored,New York,100,Window change,25,Website Performance,17
+Alex,Bits Pilani,MS Business Analytics,Optimization Research,Regular,Online Proctored,Tulsa,96.66666667,System,30,Website Performance,18
+Brad,Bits Pilani,MS Business Analytics,Big Data Analytics,Regular,Online Proctored,Barcelona,86.66666667,Authentication,12,Website Performance,19
+Brad,Bits Pilani,MS Business Analytics,Predictive Analytics,Makeup,Online Proctored,Paris,76.66666667,Login,26.6,Website Performance,30
+Brad,Bits Pilani,MS Business Analytics,Supply Chain Management,Regular,Online Proctored,Hyderabad,66.66666667,Chat,30,Website Performance,20
+Brad,Bits Pilani,MS Business Analytics,Optimization Research,Regular,Online Proctored,Bangalore,56.66666667,Window change,33.4,Website Performance,5
+Chris,Bits Pilani,MS Business Analytics,Big Data Analytics,Regular,Online Proctored,Delhi,46.66666667,System,36.8,Images not Loading,2
+Chris,Bits Pilani,MS Business Analytics,Predictive Analytics,Makeup,Online Proctored,London,36.66666667,Authentication,40.2,Images not Loading,3
+Chris,Bits Pilani,MS Business Analytics,Supply Chain Management,Regular,Online Proctored,Dubai,26.66666667,Login,43.6,Images not Loading,7
+Chris,Bits Pilani,MS Business Analytics,Optimization Research,Regular,Online Proctored,Madrid,16.66666667,Chat,47,Images not Loading,7.290909091
+Don,Bits Pilani,MS Business Analytics,Big Data Analytics,Regular,Online Proctored,Los Angeles,6.666666667,Window change,50.4,Images not Loading,6.445454545
+Don,Bits Pilani,MS Business Analytics,Predictive Analytics,Makeup,Online Proctored,Mumbai,200,System,53.8,Issues with Exam Submission,5.6
+Don,Bits Pilani,MS Business Analytics,Supply Chain Management,Regular,Online Proctored,New York,204,Authentication,57.2,Issues with Exam Submission,4.754545455
+Don,Bits Pilani,MS Business Analytics,Optimization Research,Regular,Online Proctored,Tulsa,209,Login,60.6,General Query,3.909090909
+Ellie,Bits Pilani,MS Business Analytics,Big Data Analytics,Regular,Online Proctored,Barcelona,213.3333333,Chat,64,General Query,3.063636364
+Ellie,Bits Pilani,MS Business Analytics,Predictive Analytics,Makeup,Online Proctored,Paris,217.8333333,Window change,67.4,General Query,2.218181818
+Ellie,Bits Pilani,MS Business Analytics,Supply Chain Management,Regular,Online Proctored,Hyderabad,222.3333333,System,70.8,Login - Credentials - Authentication issues,1.372727273
+Ellie,Bits Pilani,MS Business Analytics,Optimization Research,Regular,Online Proctored,Bangalore,226.8333333,Authentication,74.2,Login - Credentials - Authentication issues,0.527272727
+Frank,Bits Pilani,MS Business Analytics,Big Data Analytics,Regular,Online Proctored,Delhi,231.3333333,Login,77.6,Login - Credentials - Authentication issues,-0.318181818
+Frank,Bits Pilani,MS Business Analytics,Predictive Analytics,Makeup,Online Proctored,London,235.8333333,Chat,81,Login - Credentials - Authentication issues,20
+Frank,Bits Pilani,MS Business Analytics,Supply Chain Management,Regular,Online Proctored,Dubai,100,Window change,84.4,BarCode Scan issues,40
+Frank,Bits Pilani,MS Business Analytics,Optimization Research,Regular,Online Proctored,Madrid,90,System,87.8,BarCode Scan issues,21
+Georgia,Bits Pilani,MS Business Analytics,Big Data Analytics,Regular,Online Proctored,Los Angeles,45,Authentication,91.2,BarCode Scan issues,34
+Georgia,Bits Pilani,MS Business Analytics,Predictive Analytics,Makeup,Online Proctored,Mumbai,23.33333333,Login,94.6,BarCode Scan issues,36
+Georgia,Bits Pilani,MS Business Analytics,Supply Chain Management,Regular,Online Proctored,New York,120,Chat,98,BarCode Scan issues,29
+Georgia,Bits Pilani,MS Business Analytics,Optimization Research,Regular,Online Proctored,Tulsa,130,Window change,101.4,BarCode Scan issues,34.6
+Harry,Bits Pilani,MS Business Analytics,Big Data Analytics,Regular,Online Proctored,Barcelona,143,System,104.8,BarCode Scan issues,35.91428571
+Harry,Bits Pilani,MS Business Analytics,Predictive Analytics,Makeup,Online Proctored,Paris,154,Authentication,108.2,BarCode Scan issues,37.22857143
+Harry,Bits Pilani,MS Business Analytics,Supply Chain Management,Regular,Online Proctored,Hyderabad,165.5,Login,111.6,BarCode Scan issues,38.54285714
+Harry,Bits Pilani,MS Business Analytics,Optimization Research,Regular,Online Proctored,Bangalore,177,Chat,115,BarCode Scan issues,39.85714286
+Ivy,Bits Pilani,MS Business Analytics,Big Data Analytics,Regular,Online Proctored,Delhi,188.5,Window change,118.4,BarCode Scan issues,41.17142857
+Ivy,Bits Pilani,MS Business Analytics,Predictive Analytics,Makeup,Online Proctored,London,200,System,121.8,BarCode Scan issues,42.48571429
+Ivy,Bits Pilani,MS Business Analytics,Supply Chain Management,Regular,Online Proctored,Dubai,211.5,Authentication,125.2,BarCode Scan issues,43.8
+Ivy,Bits Pilani,MS Business Analytics,Optimization Research,Regular,Online Proctored,Madrid,223,Login,128.6,BarCode Scan issues,45.11428571
+Jack,Bits Pilani,MS Business Analytics,Big Data Analytics,Regular,Online Proctored,Los Angeles,234.5,Chat,132,BarCode Scan issues,46.42857143
+Jack,Bits Pilani,MS Business Analytics,Predictive Analytics,Makeup,Online Proctored,Mumbai,246,Window change,135.4,Exam questions Load issues,47.74285714
+Jack,Bits Pilani,MS Business Analytics,Supply Chain Management,Regular,Online Proctored,New York,257.5,System,138.8,Exam questions Load issues,49.05714286
+Jack,Bits Pilani,MS Business Analytics,Optimization Research,Regular,Online Proctored,Tulsa,269,Authentication,142.2,Exam questions Load issues,50.37142857
+Kelly,Bits Pilani,Mtech Data Science Engineering,Big Data Analytics,Regular,Online Proctored,Barcelona,280.5,Login,145.6,Exam questions Load issues,51.68571429
+Kelly,Bits Pilani,Mtech Data Science Engineering,Predictive Analytics,Makeup,Online Proctored,Paris,292,Chat,149,Exam questions Load issues,53
+Kelly,Bits Pilani,Mtech Data Science Engineering,Supply Chain Management,Regular,Online Proctored,Hyderabad,303.5,Window change,152.4,Exam questions Load issues,54.31428571
+Kelly,Bits Pilani,Mtech Data Science Engineering,Optimization Research,Regular,Online Proctored,Bangalore,315,System,155.8,Exam questions Load issues,55.62857143
+Lilly,Bits Pilani,Mtech Data Science Engineering,Big Data Analytics,Regular,Online Proctored,Delhi,326.5,Authentication,159.2,Answersheet upload issue,56.94285714
+Lilly,Bits Pilani,Mtech Data Science Engineering,Predictive Analytics,Makeup,Online Proctored,London,338,Login,162.6,Answersheet upload issue,58.25714286
+Lilly,Bits Pilani,Mtech Data Science Engineering,Supply Chain Management,Regular,Online Proctored,Dubai,349.5,Chat,166,Answersheet upload issue,59.57142857
+Lilly,Bits Pilani,Mtech Data Science Engineering,Optimization Research,Regular,Online Proctored,Madrid,361,Window change,169.4,Answersheet upload issue,60.88571429
+Monty,Bits Pilani,Mtech Data Science Engineering,Big Data Analytics,Regular,Online Proctored,Los Angeles,372.5,System,172.8,Answersheet upload issue,62.2
+Monty,Bits Pilani,Mtech Data Science Engineering,Predictive Analytics,Makeup,Online Proctored,Mumbai,384,Authentication,176.2,Answersheet upload issue,63.51428571
+Monty,Bits Pilani,Mtech Data Science Engineering,Supply Chain Management,Regular,Online Proctored,New York,395.5,Login,179.6,Internet issue,64.82857143
+Monty,Bits Pilani,Mtech Data Science Engineering,Optimization Research,Regular,Online Proctored,Tulsa,407,Chat,183,Internet issue,66.14285714
+Nick,Bits Pilani,Mtech Data Science Engineering,Big Data Analytics,Regular,Online Proctored,Barcelona,418.5,Window change,186.4,Internet issue,67.45714286
+Nick,Bits Pilani,Mtech Data Science Engineering,Predictive Analytics,Makeup,Online Proctored,Paris,430,System,189.8,Internet issue,68.77142857
+Nick,Bits Pilani,Mtech Data Science Engineering,Supply Chain Management,Regular,Online Proctored,Hyderabad,441.5,Authentication,193.2,Internet issue,70.08571429
+Nick,Bits Pilani,Mtech Data Science Engineering,Optimization Research,Regular,Online Proctored,Bangalore,453,Login,196.6,Internet issue,71.4
+Orry,Bits Pilani,Mtech Data Science Engineering,Big Data Analytics,Regular,Online Proctored,Delhi,464.5,Chat,200,Internet issue,72.71428571
+Orry,Bits Pilani,Mtech Data Science Engineering,Predictive Analytics,Makeup,Online Proctored,London,476,Window change,203.4,Internet issue,74.02857143
+Orry,Bits Pilani,Mtech Data Science Engineering,Supply Chain Management,Regular,Online Proctored,Dubai,487.5,System,206.8,Internet issue,75.34285714
+Orry,Bits Pilani,Mtech Data Science Engineering,Optimization Research,Regular,Online Proctored,Madrid,499,Authentication,210.2,Internet issue,76.65714286
+Peter,Bits Pilani,Mtech Data Science Engineering,Big Data Analytics,Regular,Online Proctored,Los Angeles,510.5,Login,213.6,Internet issue,77.97142857
+Peter,Bits Pilani,Mtech Data Science Engineering,Predictive Analytics,Makeup,Online Proctored,Mumbai,522,Chat,217,Powercut issue,79.28571429
+Peter,Bits Pilani,Mtech Data Science Engineering,Supply Chain Management,Regular,Online Proctored,New York,533.5,Window change,220.4,Powercut issue,80.6
+Peter,Bits Pilani,Mtech Data Science Engineering,Optimization Research,Regular,Online Proctored,Tulsa,545,System,223.8,Powercut issue,81.91428571
+Quinn,Bits Pilani,Mtech Data Science Engineering,Big Data Analytics,Regular,Online Proctored,Los Angeles,556.5,Authentication,227.2,Internet issue,83.22857143
+Quinn,Bits Pilani,Mtech Data Science Engineering,Predictive Analytics,Makeup,Online Proctored,Mumbai,568,Login,230.6,Website Loading,84.54285714
+Quinn,Bits Pilani,Mtech Data Science Engineering,Supply Chain Management,Regular,Online Proctored,New York,579.5,Chat,234,Website Performance,85.85714286
+Quinn,Bits Pilani,Mtech Data Science Engineering,Optimization Research,Regular,Online Proctored,Tulsa,591,Window change,237.4,Website Performance,87.17142857
+Rob,ISB,Post Graduate Diploma in DataScience,Big Data Analytics,Regular,Online Proctored,Barcelona,602.5,System,240.8,Website Performance,88.48571429
+Rob,ISB,Post Graduate Diploma in DataScience,Predictive Analytics,Makeup,Online Proctored,Paris,614,Authentication,244.2,Website Performance,89.8
+Rob,ISB,Post Graduate Diploma in DataScience,Supply Chain Management,Regular,Online Proctored,Hyderabad,625.5,Login,247.6,Website Performance,91.11428571
+Rob,ISB,Post Graduate Diploma in DataScience,Optimization Research,Regular,Online Proctored,Bangalore,637,Chat,251,Website Performance,92.42857143
+Stella,ISB,Post Graduate Diploma in DataScience,Big Data Analytics,Regular,Online Proctored,Delhi,648.5,Window change,254.4,Website Performance,93.74285714
+Stella,ISB,Post Graduate Diploma in DataScience,Predictive Analytics,Makeup,Online Proctored,London,660,System,257.8,Images not Loading,95.05714286
+Stella,ISB,Post Graduate Diploma in DataScience,Supply Chain Management,Regular,Online Proctored,Dubai,671.5,Authentication,261.2,Images not Loading,96.37142857
+Stella,ISB,Post Graduate Diploma in DataScience,Optimization Research,Regular,Online Proctored,Madrid,683,Login,264.6,Images not Loading,97.68571429
+Tom,IIM,MBA Business Analytics,Big Data Analytics,Regular,Online Proctored,Los Angeles,694.5,Chat,268,Images not Loading,99
+Tom,IIM,MBA Business Analytics,Predictive Analytics,Makeup,Online Proctored,Mumbai,706,Window change,271.4,Images not Loading,100.3142857
+Tom,IIM,MBA Business Analytics,Supply Chain Management,Regular,Online Proctored,New York,717.5,System,274.8,Issues with Exam Submission,101.6285714
+Tom,IIM,MBA Business Analytics,Optimization Research,Regular,Online Proctored,Tulsa,729,Authentication,278.2,Issues with Exam Submission,102.9428571
+Ursela,IIM,MBA Business Analytics,Big Data Analytics,Regular,Online Proctored,Barcelona,740.5,Login,281.6,General Query,104.2571429
+Ursela,IIM,MBA Business Analytics,Predictive Analytics,Makeup,Online Proctored,Paris,752,Chat,285,General Query,105.5714286
+Ursela,IIM,MBA Business Analytics,Supply Chain Management,Regular,Online Proctored,Hyderabad,763.5,Window change,288.4,General Query,106.8857143
+Ursela,IIM,MBA Business Analytics,Optimization Research,Regular,Online Proctored,Bangalore,775,System,291.8,Login - Credentials - Authentication issues,108.2
+Vikram,IIM,MBA Business Analytics,Big Data Analytics,Regular,Online Proctored,Delhi,786.5,Authentication,295.2,Login - Credentials - Authentication issues,109.5142857
+Vikram,IIM,MBA Business Analytics,Predictive Analytics,Makeup,Online Proctored,London,798,Login,298.6,Login - Credentials - Authentication issues,110.8285714
+Vikram,IIM,MBA Business Analytics,Supply Chain Management,Regular,Online Proctored,Dubai,809.5,Chat,302,Login - Credentials - Authentication issues,112.1428571
+Vikram,IIM,MBA Business Analytics,Optimization Research,Makeup,Online Proctored,Madrid,821,Window change,305.4,BarCode Scan issues,113.4571429
+Will,IIT,Mtech Data Science Engineering,Big Data Analytics,Regular,Online Proctored,Los Angeles,832.5,System,308.8,BarCode Scan issues,114.7714286
+Will,IIT,Mtech Data Science Engineering,Predictive Analytics,Makeup,Online Proctored,Mumbai,844,Authentication,312.2,BarCode Scan issues,116.0857143
+Will,IIT,Mtech Data Science Engineering,Supply Chain Management,Regular,Online Proctored,New York,855.5,Login,315.6,BarCode Scan issues,117.4
+Will,IIT,Mtech Data Science Engineering,Optimization Research,Makeup,Online Proctored,Tulsa,867,Chat,319,BarCode Scan issues,118.7142857
+Xavier,NIT,Mtech Data Science Engineering,Big Data Analytics,Regular,Online Proctored,Barcelona,878.5,Window change,322.4,BarCode Scan issues,120.0285714
+Xavier,NIT,Mtech Data Science Engineering,Predictive Analytics,Makeup,Online Proctored,Paris,890,System,325.8,BarCode Scan issues,121.3428571
+Xavier,NIT,Mtech Data Science Engineering,Supply Chain Management,Regular,Online Proctored,Hyderabad,901.5,Authentication,329.2,BarCode Scan issues,122.6571429
+Xavier,NIT,Mtech Data Science Engineering,Optimization Research,Regular,Online Proctored,Bangalore,913,Login,332.6,BarCode Scan issues,123.9714286
+Yoda,NIT,MS Business Analytics,Big Data Analytics,Regular,Online Proctored,Delhi,924.5,Chat,336,BarCode Scan issues,125.2857143
+Yoda,NIT,MS Business Analytics,Predictive Analytics,Makeup,Online Proctored,London,936,Window change,339.4,BarCode Scan issues,126.6
+Yoda,NIT,MS Business Analytics,Supply Chain Management,Regular,Online Proctored,Dubai,947.5,System,342.8,BarCode Scan issues,127.9142857
+Yoda,NIT,MS Business Analytics,Optimization Research,Regular,Online Proctored,Madrid,959,Authentication,346.2,BarCode Scan issues,129.2285714
+Zen,IIIT,Mtech Data Science Engineering,Big Data Analytics,Regular,Online Proctored,Los Angeles,970.5,Login,349.6,BarCode Scan issues,130.5428571
+Zen,IIIT,Mtech Data Science Engineering,Predictive Analytics,Makeup,Online Proctored,Mumbai,982,Chat,353,BarCode Scan issues,131.8571429
+Zen,IIIT,Mtech Data Science Engineering,Supply Chain Management,Makeup,Online Proctored,New York,993.5,Window change,356.4,Exam questions Load issues,133.1714286
+Zen,IIIT,Mtech Data Science Engineering,Optimization Research,Regular,Online Proctored,Tulsa,1005,System,359.8,Exam questions Load issues,134.4857143
